@@ -1,0 +1,105 @@
+# avant novembre 2015
+# avoir une liste de mois à remplir. 
+# methode : pointer tous les mails à rebours.
+# nécessité : 
+#     -  que tous les mois aient leur pl plein.
+#     -  que tous les mois aient leur légende. 
+
+# 80 documents à pointer. 
+# les sources documentaires commencent à 25 pour sophie
+#index  datedoc 		intitulé_doc		type_ml_ou_pj	null_ou_provient_du_ml_titre_date debut_periode fin_periode mois annee du_mois au_du_mois
+25
+26 2015/04/20 "modif planning derniere semaine d avril pour laurent et chris g.ods" pj null 2015/04/27 2015/05/03 4 27 30
+26 2015/04/20 "modif planning derniere semaine d avril pour laurent et chris g.ods" pj null 2015/04/27 2015/05/03 5 1 3
+
+#les modifs isolées
+#index  datedoc 		intitulé_doc		type_ml_ou_pj	null_ou_provient_du_ml_titre_date D/A date type_poste
+25 2015/05/23 "Re: demande d'autorisation d'absence le 11 juin." ml null D 2015/06/11
+25 2015/05/23 "Re: demande d'autorisation d'absence le 11 juin." ml null A 2015/06/10
+26
+27 2015/04/08 "Re: planning du 7 au 26 si am humberto" ml null A 2015/04/10 P2
+27 2015/04/08 "Re: planning du 7 au 26 si am humberto" ml null D 2015/04/09 P2
+
+# octobre 2015
+
+# septembre 2015
+
+# aout 2015
+
+# juillet 2015
+
+# juin 2015
+#index  datedoc 		intitulé_doc		type_ml_ou_pj	null_ou_provient_du_ml_titre_date D/A date
+25 2015/05/23 "Re: demande d'autorisation d'absence le 11 juin." ml null D 2015/06/11
+25 2015/05/23 "Re: demande d'autorisation d'absence le 11 juin." ml null A 2015/06/10  
+#index  datedoc 		intitulé_doc		type_ml_ou_pj	null_ou_provient_du_ml_titre_date AjoutSupprimerPeriode debut_periodeouini_ech fin_periode_ou_fin_ech mois annee du_mois au_du_mois
+	 
+# mai 2015
+
+
+# avril 2015 
+
+
+# mars 2015 
+
+# fevrier 2015
+
+# janvier 2015     
+
+
+# décembre 2014 
+
+# novembre 2014 
+
+
+# octobre 2014
+
+# septembre 2014
+
+# aout 2014
+
+# juillet 2014
+
+# juin 2014
+
+# mai 2014
+
+
+# avril 2014 
+
+
+# mars 2014 
+
+# fevrier 2014
+
+# janvier 2014 
+
+
+
+
+# décembre 2013 
+
+# novembre 2013 
+
+
+# octobre 2013
+
+# septembre 2013
+
+# aout 2013
+
+# juillet 2013
+
+# juin 2013
+
+# mai 2013
+
+
+# avril 2013 
+
+
+# mars 2013 
+
+# fevrier 2013
+
+# janvier 2013         

@@ -1,0 +1,3 @@
+# periodes couvertes
+# annee		mois	date_debut	date_fin	index_doc
+2017 9 2017/09/01 2017/09/31 1
