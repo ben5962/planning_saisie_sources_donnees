@@ -7,99 +7,93 @@
 
 # 80 documents à pointer. 
 # les sources documentaires commencent à 25 pour sophie
-#index  datedoc 		intitulé_doc		type_ml_ou_pj	null_ou_provient_du_ml_titre_date debut_periode fin_periode mois annee du_mois au_du_mois
-25
-26 2015/04/20 "modif planning derniere semaine d avril pour laurent et chris g.ods" pj null 2015/04/27 2015/05/03 4 27 30
-26 2015/04/20 "modif planning derniere semaine d avril pour laurent et chris g.ods" pj null 2015/04/27 2015/05/03 5 1 3
-
 #les modifs isolées
 #index  datedoc 		intitulé_doc		type_ml_ou_pj	null_ou_provient_du_ml_titre_date D/A date type_poste
 25 2015/05/23 "Re: demande d'autorisation d'absence le 11 juin." ml null D 2015/06/11
 25 2015/05/23 "Re: demande d'autorisation d'absence le 11 juin." ml null A 2015/06/10
-26
+#index  datedoc 		intitulé_doc		type_ml_ou_pj	null_ou_provient_du_ml_titre_date debut_periode fin_periode mois annee du_mois au_du_mois
+26 2015/04/20 "modif planning derniere semaine d avril pour laurent et chris g.ods" pj null 2015/04/27 2015/05/03 4 27 30
+26 2015/04/20 "modif planning derniere semaine d avril pour laurent et chris g.ods" pj null 2015/04/27 2015/05/03 5 1 3
+#les modifs isolées
+#index  datedoc 		intitulé_doc		type_ml_ou_pj	null_ou_provient_du_ml_titre_date D/A date type_poste
 27 2015/04/08 "Re: planning du 7 au 26 si am humberto" ml null A 2015/04/10 P2
 27 2015/04/08 "Re: planning du 7 au 26 si am humberto" ml null D 2015/04/09 P2
+#index  datedoc 		intitulé_doc		type_ml_ou_pj	null_ou_provient_du_ml_titre_date debut_periode fin_periode mois du_mois au_du_mois
+28 2015/04/07 "modif semaine du 07.04 au 26.6 si AM humberto.xlsx" pj "provient du mail envoi des modifs. désolée" 2015/04/04 2015/04/26 4 4 26
+29 2015/03/20 "CONGES ETE 2015.xlsx" pj "provient du mail 	CONGES ETE 2015" 2015/03/16 2015/11/22 3 16 31 # nv masque pour permanences à partir du 2015/04/06 
+29 2015/03/20 "CONGES ETE 2015.xlsx" pj "provient du mail 	CONGES ETE 2015" 2015/03/16 2015/11/22 4 01 30 # nv masque pour permanences à partir du 2015/04/06 
+29 2015/03/20 "CONGES ETE 2015.xlsx" pj "provient du mail 	CONGES ETE 2015" 2015/03/16 2015/11/22 5 01 31 # nv masque pour permanences à partir du 2015/04/06 
+29 2015/03/20 "CONGES ETE 2015.xlsx" pj "provient du mail 	CONGES ETE 2015" 2015/03/16 2015/11/22 6 01 30 # nv masque pour permanences à partir du 2015/04/06 
+29 2015/03/20 "CONGES ETE 2015.xlsx" pj "provient du mail 	CONGES ETE 2015" 2015/03/16 2015/11/22 7 01 31 # nv masque pour permanences à partir du 2015/04/06 
+29 2015/03/20 "CONGES ETE 2015.xlsx" pj "provient du mail 	CONGES ETE 2015" 2015/03/16 2015/11/22 8 01 31 # nv masque pour permanences à partir du 2015/04/06 
+29 2015/03/20 "CONGES ETE 2015.xlsx" pj "provient du mail 	CONGES ETE 2015" 2015/03/16 2015/11/22 9 01 30 # nv masque pour permanences à partir du 2015/04/06 
+29 2015/03/20 "CONGES ETE 2015.xlsx" pj "provient du mail 	CONGES ETE 2015" 2015/03/16 2015/11/22 10 01 31 # nv masque pour permanences à partir du 2015/04/06 
+29 2015/03/20 "CONGES ETE 2015.xlsx" pj "provient du mail 	CONGES ETE 2015" 2015/03/16 2015/11/22 11 01 22 # nv masque pour permanences à partir du 2015/04/06 
+30 2015/03/03 "modif planning a compter du 03.03.2015.xlsx" pj 	"provient du mail MODIFICATION DE PLANNING A COMPTER DU 03.03.2015" 2015/03/03 2015/04/05 3 3 31
+30 2015/03/03 "modif planning a compter du 03.03.2015.xlsx" pj 	"provient du mail MODIFICATION DE PLANNING A COMPTER DU 03.03.2015" 2015/03/03 2015/04/05 4 1 5
+31 2014/12/12 "MODIF PLANNING A COMPTER DU 01.01.2015.xlsx" pj  "provient du mail PLANNING A COMPTER DU 01.01.2015" 2015/01/01 2015/04/05 1 1 31
+31 2014/12/12 "MODIF PLANNING A COMPTER DU 01.01.2015.xlsx" pj  "provient du mail PLANNING A COMPTER DU 01.01.2015" 2015/01/01 2015/04/05 2 1 28
+31 2014/12/12 "MODIF PLANNING A COMPTER DU 01.01.2015.xlsx" pj  "provient du mail PLANNING A COMPTER DU 01.01.2015" 2015/01/01 2015/04/05 3 1 31
+31 2014/12/12 "MODIF PLANNING A COMPTER DU 01.01.2015.xlsx" pj  "provient du mail PLANNING A COMPTER DU 01.01.2015" 2015/01/01 2015/04/05 4 1 5
+# nouveau masque pour les permtels sur ce planning à partir du 17/11 
+32 2014/10/23 "planning vacances de noel etc.xlsx" pj 	"provient du mail le planning provisoire.... (je dois faire poser les 5 eme semaine début janvier ..peut être à compter du 05.01.2014)" 2014/09/08 2015/01/11 9 8 30
+32 2014/10/23 "planning vacances de noel etc.xlsx" pj 	"provient du mail le planning provisoire.... (je dois faire poser les 5 eme semaine début janvier ..peut être à compter du 05.01.2014)" 2014/09/08 2015/01/11 10 1 31
+32 2014/10/23 "planning vacances de noel etc.xlsx" pj 	"provient du mail le planning provisoire.... (je dois faire poser les 5 eme semaine début janvier ..peut être à compter du 05.01.2014)" 2014/09/08 2015/01/11 11 1 30
+32 2014/10/23 "planning vacances de noel etc.xlsx" pj 	"provient du mail le planning provisoire.... (je dois faire poser les 5 eme semaine début janvier ..peut être à compter du 05.01.2014)" 2014/09/08 2015/01/11 12 1 31
+32 2014/10/23 "planning vacances de noel etc.xlsx" pj 	"provient du mail le planning provisoire.... (je dois faire poser les 5 eme semaine début janvier ..peut être à compter du 05.01.2014)" 2014/09/08 2015/01/11 1 1 11
+33 2014/09/11 "modif planning pc à compter du 15.09.2014.xlsx" pj "provient du mail Modification planning pc à compter du 15.09.2014" 2014/09/08 2014/11/16 9 8 30
+33 2014/09/11 "modif planning pc à compter du 15.09.2014.xlsx" pj "provient du mail Modification planning pc à compter du 15.09.2014" 2014/09/08 2014/11/16 10 1 31
+33 2014/09/11 "modif planning pc à compter du 15.09.2014.xlsx" pj "provient du mail Modification planning pc à compter du 15.09.2014" 2014/09/08 2014/11/16 11 1 16
+# mail avant le 5/05 6/15 15/23 15/23 23/7
+# mail contenant la décla des masques:  à partir du 5/05 15/h23h x2  23h/7h x1 (en plus des 618 186 )
+# planning contenant decla de masques dimanche 7/19 et 19/7 à partir du 2014/04/06
+34 2014/03/04 "PLANNING VACANCES ETE 2014.xlsx" pj "provient du mail planning ete 2014" 2014/03/31 2014/11/23 3 31 31
+34 2014/03/04 "PLANNING VACANCES ETE 2014.xlsx" pj "provient du mail planning ete 2014" 2014/03/31 2014/11/23 4 1 30
+34 2014/03/04 "PLANNING VACANCES ETE 2014.xlsx" pj "provient du mail planning ete 2014" 2014/03/31 2014/11/23 5 1 31
+34 2014/03/04 "PLANNING VACANCES ETE 2014.xlsx" pj "provient du mail planning ete 2014" 2014/03/31 2014/11/23 6 1 30
+34 2014/03/04 "PLANNING VACANCES ETE 2014.xlsx" pj "provient du mail planning ete 2014" 2014/03/31 2014/11/23 7 1 31
+34 2014/03/04 "PLANNING VACANCES ETE 2014.xlsx" pj "provient du mail planning ete 2014" 2014/03/31 2014/11/23 8 1 31
+34 2014/03/04 "PLANNING VACANCES ETE 2014.xlsx" pj "provient du mail planning ete 2014" 2014/03/31 2014/11/23 9 1 30
+34 2014/03/04 "PLANNING VACANCES ETE 2014.xlsx" pj "provient du mail planning ete 2014" 2014/03/31 2014/11/23 10 1 31
+34 2014/03/04 "PLANNING VACANCES ETE 2014.xlsx" pj "provient du mail planning ete 2014" 2014/03/31 2014/11/23 11 1 23
+#les modifs isolées
+#index  datedoc 		intitulé_doc		type_ml_ou_pj	null_ou_provient_du_ml_titre_date D/A date type_poste
+35 2013/12/30 "ERREUR SUR PLANNING" ml D 2014/01/01 ?
 
-# octobre 2015
+# attention premier typoe de masque pour la permtel horaires semaien du 2013/11/18 au 2014/01/05  horaires écrits explicitement sur le planning   6/14 14/22 non 22/6 non cp cp cp cp
+# attention premier type de masque pouir la permtel we horaires du 2013/11/18 au 2014/01/05 soit 7h45/19h45 soit 8h45/20h45
+# attention 2eme type de masque pouir la permtel sem horaires du 2014/01/05 au 2014/04/06 au moins. plus écrit dir sur planning. 7/15  15h/23h x2  23h7h non cp cp cp
+# attention deuxieme type de masque we pour la permancen du 2014/01/06 au moins reste 8h45 20h45  
+#index  datedoc 		intitulé_doc		type_ml_ou_pj	null_ou_provient_du_ml_titre_date debut_periode fin_periode mois annee du_mois au_du_mois
+36 2013/11/18 "planning du 01.01.2014 AU 06.04.2014 - MODIF ATTENTION.xlsx" pj "provient du mail planning bis" 2013/11/18 2014/04/06 11 18 30
+36 2013/11/18 "planning du 01.01.2014 AU 06.04.2014 - MODIF ATTENTION.xlsx" pj "provient du mail planning bis" 2013/11/18 2014/04/06 12 1 31
+36 2013/11/18 "planning du 01.01.2014 AU 06.04.2014 - MODIF ATTENTION.xlsx" pj "provient du mail planning bis" 2013/11/18 2014/04/06 1 1 31
+36 2013/11/18 "planning du 01.01.2014 AU 06.04.2014 - MODIF ATTENTION.xlsx" pj "provient du mail planning bis" 2013/11/18 2014/04/06 2 1 28
+36 2013/11/18 "planning du 01.01.2014 AU 06.04.2014 - MODIF ATTENTION.xlsx" pj "provient du mail planning bis" 2013/11/18 2014/04/06 3 1 31
+36 2013/11/18 "planning du 01.01.2014 AU 06.04.2014 - MODIF ATTENTION.xlsx" pj "provient du mail planning bis" 2013/11/18 2014/04/06 4 1 6
 
-# septembre 2015
+# contient le maque des perm we et perm semaine 6/14 14/22 22/6 
+#index  datedoc 		intitulé_doc		type_ml_ou_pj	null_ou_provient_du_ml_titre_date debut_periode fin_periode mois annee du_mois au_du_mois
+37 2013/11/07 "planning du 181…13 au 05012013.xlsx" pj "provient du mail modif et suite du planning operateur du 18.11 au 05.01.2014" 2013/11/18 2014/01/05 11 18 30
+37 2013/11/07 "planning du 181…13 au 05012013.xlsx" pj "provient du mail modif et suite du planning operateur du 18.11 au 05.01.2014" 2013/11/18 2014/01/05 12 1 31
+37 2013/11/07 "planning du 181…13 au 05012013.xlsx" pj "provient du mail modif et suite du planning operateur du 18.11 au 05.01.2014" 2013/11/18 2014/01/05 1 1 31
+37 2013/11/07 "planning du 181…13 au 05012013.xlsx" pj "provient du mail modif et suite du planning operateur du 18.11 au 05.01.2014" 2013/11/18 2014/01/05 2 1 28
+37 2013/11/07 "planning du 181…13 au 05012013.xlsx" pj "provient du mail modif et suite du planning operateur du 18.11 au 05.01.2014" 2013/11/18 2014/01/05 3 1 31
+37 2013/11/07 "planning du 181…13 au 05012013.xlsx" pj "provient du mail modif et suite du planning operateur du 18.11 au 05.01.2014" 2013/11/18 2014/01/05 4 1 30
 
-# aout 2015
+# contient le maque des perm we et perm semaine 6/14 14/22 22/6 
+#index  datedoc 		intitulé_doc		type_ml_ou_pj	null_ou_provient_du_ml_titre_date debut_periode fin_periode mois annee du_mois au_du_mois
+38 2013/09/30 "modif planning arret humberto.xlsx" pj "provient du mail modif planning arret maladie humberto" 2013/09/30 2013/10/20 9 30 30
+38 2013/09/30 "modif planning arret humberto.xlsx" pj "provient du mail modif planning arret maladie humberto" 2013/09/30 2013/10/20 10 1 20
 
-# juillet 2015
+#index  datedoc 		intitulé_doc		type_ml_ou_pj	null_ou_provient_du_ml_titre_date debut_periode fin_periode mois annee du_mois au_du_mois
+39 2013/07/10 "modif planning 10.7.2013.xls" pj "provient du mail modification planning du 17.07 au 31.08.2013" 2013/07/17 2013/01/09 7 17 31
+39 2013/07/10 "modif planning 10.7.2013.xls" pj "provient du mail modification planning du 17.07 au 31.08.2013" 2013/07/17 2013/01/09 8 1 31
+39 2013/07/10 "modif planning 10.7.2013.xls" pj "provient du mail modification planning du 17.07 au 31.08.2013" 2013/07/17 2013/01/09 9 1 1
 
-# juin 2015
-#index  datedoc 		intitulé_doc		type_ml_ou_pj	null_ou_provient_du_ml_titre_date D/A date
-25 2015/05/23 "Re: demande d'autorisation d'absence le 11 juin." ml null D 2015/06/11
-25 2015/05/23 "Re: demande d'autorisation d'absence le 11 juin." ml null A 2015/06/10  
-#index  datedoc 		intitulé_doc		type_ml_ou_pj	null_ou_provient_du_ml_titre_date AjoutSupprimerPeriode debut_periodeouini_ech fin_periode_ou_fin_ech mois annee du_mois au_du_mois
-	 
-# mai 2015
+# masques spécifiques 6/18 pour certaines dates de permtel
+# puis autre masque
+#index  datedoc 		intitulé_doc		type_ml_ou_pj	null_ou_provient_du_ml_titre_date debut_periode fin_periode mois annee du_mois au_du_mois
+40 2013/04/03 "planning bis vacances 2013.xls" pj "provient du mail planning avec modif intégrée suite erreur de ma part ou modif demandée par vous" 2013/04/01 2013/12/01
+41 2013/02/11 "5eme semain du 21.03.2013 AU 07.04.2013.xls" pj provient du mail "du 21/03 au 07/04" 2013/02/11 2013/04/07
 
-
-# avril 2015 
-
-
-# mars 2015 
-
-# fevrier 2015
-
-# janvier 2015     
-
-
-# décembre 2014 
-
-# novembre 2014 
-
-
-# octobre 2014
-
-# septembre 2014
-
-# aout 2014
-
-# juillet 2014
-
-# juin 2014
-
-# mai 2014
-
-
-# avril 2014 
-
-
-# mars 2014 
-
-# fevrier 2014
-
-# janvier 2014 
-
-
-
-
-# décembre 2013 
-
-# novembre 2013 
-
-
-# octobre 2013
-
-# septembre 2013
-
-# aout 2013
-
-# juillet 2013
-
-# juin 2013
-
-# mai 2013
-
-
-# avril 2013 
-
-
-# mars 2013 
-
-# fevrier 2013
-
-# janvier 2013         
