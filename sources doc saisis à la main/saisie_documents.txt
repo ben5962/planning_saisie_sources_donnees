@@ -1,0 +1,37 @@
+1 2017/08/17 "2017 SEPTEMBRE.pdf" pj "provient du mail PLANNING SEPTEMBRE 2017 2017/08/17" 2017/09/01 2017/09/30
+2 2017/08/14 "2017 AOUT(2).pdf" pj "provient du mail DOMOVEIL- Planning AOUT 2017" 2017/08/01 2017/08/31
+3 2017/05/22 "2017 JUILLET.pdf" pj "provient du mail Modification planning" 2017/07/01 2017/07/31
+4 2017/06/14 "2017 JUIN.pdf" pj "provient du mail Correction planning JUIN" 2017/06/01 2017/06/30
+5 2017/05/24 "2017 MAI.pdf"	pj "provient du mail PLANNING MAI ET JUIN - Aménagements suite AM" 2017/05/01 2017/05/31
+6 2017/02/27 "2017 AVRIL.pdf" pj "provient du mail DOMOVEIL - PLANNING AVRIL MAJ" 2017/04/01 2017/04/30
+7 2017/02/20 "2017 MARS.pdf" pj "provient du mail MAJ PLANNING MARS" 2017/03/01 2017/03/31
+8 2016/12/08 "2017 FEVRIER.pdf" pj "provient du mail Planning février 2017" 2017/02/01 2017/02/28
+9 2017/01/17 "2017 JANVIER.pdf" pj "provient du mail Aménagements planning" 2017/01/01 2017/01/31
+10 2016/12/14 "DECEMBRE 2016.pdf" pj "provient du mail DÉCEMBRE 2016 - MAJ" 2016/12/01 2016/12/31
+11 2016/10/07 "NOVEMBRE 2016.pf" pj "provient du mail PLANNING NOVEMBRE 2016" 2016/11/01 2016/11/31
+12 2016/10/06 "Re: échange de poste entre bh et cl" ml null 2016/10/10 2016/10/10
+12 2016/10/06 "Re: échange de poste entre bh et cl" ml null 2016/10/11 2016/10/11
+12 2016/10/06 "Re: échange de poste entre bh et cl" ml null 2016/10/12 2016/10/12
+12 2016/10/06 "Re: échange de poste entre bh et cl" ml null 2016/10/13 2016/10/13
+13 2016/09/27 "octobre 2016.pdf" pj "provient du mail Planning octobre 2016" 2016/10/14 2016/10/31 
+13 2016/09/27 "octobre 2016.pdf" pj "provient du mail Planning octobre 2016" 2016/10/01 2016/10/10 
+14 2016/09/22 "SEPTEMBRE 2016.pdf" pj "provient du mail PLANNING OCTOBRE" 2016/09/01 2016/09/30
+15 2016/08/27 "AOUT 2016.pdf" pj "provient du mail PLANNINGS AOUT - SEPTEMBRE 2016" 2016/08/01 2016/08/31
+16 2016/07/29 "juillet 2016 maj.pdf" pj "provient du mail planning de juillet. poste P1 du 29/07" 2016/07/01 2016/07/31
+17 2016/05/26 "2016 JUIN.pdf" pj "provient du mail MAJ Planning" 2016/06/01 2016/06/31
+18 2016/04/28 "2016 MAI.odg" pj "provient du mail PLANNING PC MAI 2016 Modifié" 2016/05/01 2016/05/31#conversion en pdf-txt puis extraction du texte. 
+19 2016/04/19 "2016 AVRIL MAJ AU 19.04.2016.ods" pj "provient du mail Modifications planning 2016" 2016/04/01 2016/04/30
+20 2016/02/18 "Planning PC Mars 2016 ref2016021701.pdf" pj "provient du mail Planning mars 2016" 2016/03/01 2016/03/31
+21 2016/01/19 "Planning PC Février 2016 ref2016011901.pdf" pj "provient du mail Planning Février 2016" 2016/02/01 2016/02/28
+22 2017/08/20 "Planning PC Janvier 2016 ref2015122302.pdf" pj "provient du mail Fwd: Planning janvier 2016 ref2015122302" 2016/01/01 2016/01/31
+23 2015/11/20 "Planning PC Décembre 2015.pdf" pj "provient du mail Planning Décembre 2015" 2015/12/01 2015/12/31
+24 2015/11/09 "3474_001.pdf" pj "provient du mail Planning novembre 2015" 2015/11/01 2015/11/30
+25 2015/04/20 "modif planning derniere semaine d avril pour laurent et chris g.ods" pj "provient du mail changement planning chris g et laurent ?" 2015/04/27 2015/05/03
+26 2015/04/08 "Re: planning du 7 au 26 si am humberto" ml null 2015/04/09 2015/04/10
+28 2015/03/03 "modif planning a compter du 03.03.2015.xlsx" pj "provient du mail MODIFICATION DE PLANNING A COMPTER DU 03.03.2015" 2015/03/03 2015/04/05
+29 2014/12/12 "MODIF PLANNING … DU 01.01.2015.xlsx" pj "provient du mail PLANNING A COMPTER DU 01.01.2015" 2015/01/01 2015/03/02
+30 2014/10/23 "planning vacances de noel etc.xlsx" pj "provient du mail le planning provisoire.... (je dois faire poser les 5 eme semaine début janvier ..peut être à compter du 05.01.2014)" 2014/09/08 2014/12/31
+
+
+
+
